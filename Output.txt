@@ -1,0 +1,13 @@
+OUTPUT OF PROGRAM WITH SAMPLE DATA
+   INPUT
+1)Enter the first name:psairam
+2)Enter the second name:rakshithkumar
+Output is
+Enter a first name: psairam
+You entered: psairam
+psairamArray representation of Heap is:
+s r m i p a a
+Enter a second name: rakshithkumar
+You entered name is: rakshithkumar
+final max heap is
+u t s r r m s   r p k a h a i h k i m a a
